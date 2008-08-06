@@ -1,4 +1,5 @@
 #summary A list of effects that please the eye.
+#labels Featured
 
 This page lists some of the best-looking stuff you can do with gwinwrap.
 
