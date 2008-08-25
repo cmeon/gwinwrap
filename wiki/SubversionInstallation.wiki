@@ -9,11 +9,11 @@ A list of all changes to the code is available, with notes about potential probl
 
   #  Make sure you have [http://www.getdeb.net/search.php?keywords=xwinwrap installed xwinwrap] from getdeb.net.
   #  Optional: Install extra screensavers from Synaptic Package Manager by searching for "xscreensaver" and installing likely packages.
+  #  Open a terminal window (Applications>Accessories>Terminal).
   #  Optional: Install mplayer for video support:
 {{{
 sudo apt-get install mplayer
 }}}
-  #  Open a terminal window (Applications>Accessories>Terminal).
   #  Install SVN:
 {{{
 sudo apt-get install subversion
