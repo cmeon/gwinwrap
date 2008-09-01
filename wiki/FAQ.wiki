@@ -1,0 +1,14 @@
+#labels Featured
+==Why is it better than normal wallpaper?==
+Xwinwrap allows you to set a screensaver or video as the wallpaper, which can be either painful for your eyes or pleasant, depending on the screensaver settings or the video.
+
+Since xwinwrap is confusing to anyone not familiar with it, Gwinwrap attempts to simplify the process of picking out a screensaver or movie to use, and includes sane defaults that won't kill your eyes.
+
+==When I use gwinwrap, my desktop icons disappear.==
+Unfortunately, xwinwrap (and thus gwinwrap) draws above your desktop icons, making them invisible. To fix this, change the opacity to something less than 100% or move your icons to another folder to use. Sorry about this, but it is not something I can fix--I don't code xwinwrap.
+
+==Won't this make my computer slower?==
+As long as you use the low cpu priority setting, running xwinwrap through Gwinwrap should not slow down your computer visibly. If you are running folding@home, however, this is not the program for you.
+
+==What if I want to keep my desktop simple?==
+If this is the case, you probably won't want to use xwinwrap or gwinwrap.
