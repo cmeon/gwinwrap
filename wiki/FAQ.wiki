@@ -4,6 +4,9 @@ Xwinwrap allows you to set a screensaver or video as the wallpaper, which can be
 
 Since xwinwrap is confusing to anyone not familiar with it, Gwinwrap attempts to simplify the process of picking out a screensaver or movie to use, and includes sane defaults that won't kill your eyes.
 
+==Why would I want to have a video running in the background on my desktop?==
+If you can find a video of something simple like a fish tank, that loops without a skip, it might be a relaxing background. It's up to you. If you want to annoy your friends with a rick-roll background, be my guest.
+
 ==When I use gwinwrap, my desktop icons disappear.==
 Unfortunately, xwinwrap (and thus gwinwrap) draws above your desktop icons, making them invisible. To fix this, change the opacity to something less than 100% or move your icons to another folder to use. Sorry about this, but it is not something I can fix--I don't code xwinwrap.
 
