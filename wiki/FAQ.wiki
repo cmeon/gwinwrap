@@ -10,6 +10,11 @@ If you can find a video of something simple like a fish tank, that loops without
 ==When I use gwinwrap, my desktop icons disappear.==
 Unfortunately, xwinwrap (and thus gwinwrap) draws above your desktop icons, making them invisible. To fix this, change the opacity to something less than 100% or move your icons to another folder to use. Sorry about this, but it is not something I can fix--I don't code xwinwrap.
 
+==Xwinwrap doesn't work--the effect flickers terribly, and is above the desktop!==
+Unfortunately, some graphics card drivers do not work well with Ubuntu's graphics (such as videos and 3d graphics. Since the graphics are managed by the drivers, I have no control over them. Sorry!
+
+The computer I have tested that produces these effects is the Dell Latitude D630 laptop.
+
 ==Won't this make my computer slower?==
 As long as you use the low cpu priority setting, running xwinwrap through Gwinwrap should not slow down your computer visibly. If you are running folding@home, however, this is not the program for you.
 
